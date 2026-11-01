@@ -253,9 +253,15 @@ SELECT * FROM prime_store;
 
 Example expected result for input `10`:
 
-| id | n | nth_prime |
-|---:|---:|---:|
-| 1 | 10 | 29 |
+mysql> SELECT * FROM prime_store;
++----+-----+-----------+
+| id | n   | nth_prime |
++----+-----+-----------+
+|  1 |   5 |        11 |
+|  2 |  10 |        29 |
+|  3 |  50 |       229 |
+|  4 | 150 |       863 |
++----+-----+-----------+
 
 The `created_at` column is generated automatically by MySQL.
 

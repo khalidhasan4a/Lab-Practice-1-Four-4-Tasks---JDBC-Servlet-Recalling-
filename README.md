@@ -10,9 +10,8 @@
 
 | Field | Information |
 |---|---|
-| **Full Name** | `YOUR FULL NAME` |
-| **Student ID** | `YOUR STUDENT ID` |
-| **University Email** | `YOUR UNIVERSITY EMAIL` |
+| **Full Name** |Md. Khalid Hasan|
+| **Student ID** |IT-24013|
 | **Course** | ICT 3108 – Software Engineering Project Management |
 | **Lab Date** | 1 November 2026 |
 | **Development Environment** | Windows 10/11, IntelliJ IDEA 2026.2.1 |
@@ -70,7 +69,8 @@ https://www.jetbrains.com/community/education/#students
 
 ### Screenshot
 
-![IntelliJ IDEA 2026.2.1 installed](screenshots/intellij-idea-2026.2.1.png)
+<img width="966" height="736" alt="image" src="https://github.com/user-attachments/assets/923ca450-275f-4716-8821-857179e9d736" />
+
 
 *Figure 1: IntelliJ IDEA 2026.2.1 appears in Windows Search and the application is available to open.*
 
@@ -301,7 +301,8 @@ https://tomcat.apache.org/
 
 ### Installation Screenshot
 
-![Apache Tomcat 10.1.57 download and extracted folder](screenshots/apache-tomcat-10.1.57.png)
+<img width="982" height="608" alt="image" src="https://github.com/user-attachments/assets/3256aa56-37c7-4d96-9da9-fa39ccc4a3c5" />
+
 
 *Figure 2: Apache Tomcat 10.1.57 ZIP archive and extracted folder visible in Windows Search.*
 
